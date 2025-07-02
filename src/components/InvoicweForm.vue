@@ -137,7 +137,7 @@
             <tr>
               <th>#</th>
               <th>Product Name</th>
-              <th class="text-end">Quantity</th>
+              <th class="text-end">Weight in gm</th>
               <th class="text-end">Rate</th>
               <th class="text-end">Amount</th>
             </tr>
